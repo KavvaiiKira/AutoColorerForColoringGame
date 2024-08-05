@@ -2,6 +2,6 @@
 
 Automatically (almost) paints squares in a game where you have to paint squares.
 
-just enter the number of colors you want.
+Just enter the number of colors you want :)
 
 Almost automatically, because you still have to move the area to paint.
